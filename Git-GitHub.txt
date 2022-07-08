@@ -1,0 +1,32 @@
+TÓPICOS FUNDAMENTAIS PARA ENTENDER O FUNCIONAMENTO DO GIT
+
+- SHA1 
+-Objetos fundamentais 
+-Ssistema distribuído 
+-Segurança 
+
+*SHA1: é um alggoritmo de cripitação 
+--> linha de código para gerar um SHA1: 
+|
+--> openssl sha1 nome-do-arquivo-> ex: 'texto.txt'
+
+
+*Objetos fundamentais: BLOBS; TREES; COMMITS 
+BLOBS: contem metadados 
+
+TREES: armazenam e apontam blobs e também commits 
+
+COMMIT: aponta para todos, aponta para um parente, autor, mensagem...
+
+
+* Chaves SSH e Tokens 
+Chave SSH: é uma forma segura de estabelecer conecções entre duas máquinas 
+
+
+*Iniciando o Git e criando um commit 
+-Iniciar o Git 
+-Iniciar o versionamento 
+-Criar um commit 
+
+-> git init inicializa um repositório 
+ 
