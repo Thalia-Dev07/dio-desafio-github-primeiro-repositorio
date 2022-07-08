@@ -2,7 +2,7 @@ TÓPICOS FUNDAMENTAIS PARA ENTENDER O FUNCIONAMENTO DO GIT
 
 - SHA1 
 -Objetos fundamentais 
--Ssistema distribuído 
+-Sistema distribuído 
 -Segurança 
 
 *SHA1: é um alggoritmo de cripitação 
